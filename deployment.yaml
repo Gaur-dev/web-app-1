@@ -16,4 +16,4 @@ spec:
       - name: web-app
         image: web-app1:latest
         ports:
-        - containerPort: 8080
+        - containerPort: 80
